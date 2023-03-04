@@ -1,2 +1,2 @@
-# reciepe-app-BE
+# recipe-app-BE
 Recipe API Project
